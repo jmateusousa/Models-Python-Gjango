@@ -42,3 +42,6 @@ class Course(models.Model):
         verbose_name = 'Curso'
         verbose_name_plural = 'Cursos'
         ordering = ['name']
+           
+#desenvolvido por @jmateusousa
+#email: contato.matthewd@gmail.com
