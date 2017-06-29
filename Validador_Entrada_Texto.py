@@ -5,4 +5,7 @@ if palavra = True:
     traducao = palavra[2:] + priseg
     print traducao
 else:   
-    print "Isso n„o È uma palavra"
+    print "Isso n√£o √© uma palavra"
+    
+#desenvolvido por @jmateusousa
+#email: contato.matthewd@gmail.com
